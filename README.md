@@ -2,7 +2,7 @@
 a simple plane game
 定义常量类Constant来保存一些常量如窗口大小，子弹数目等
 导入图片，构造GameUtil类，获取图片直接用java.awt.Image planeImg= GameUtil.getImage("images/plane.png");
-ublic class GameUtil {
+
 
            // 工具类最好将构造器私有化。
 
